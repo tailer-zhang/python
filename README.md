@@ -11,7 +11,6 @@
 ```
 
 ## Donate
-    ![image](https://github.com/tailer-zhang/StudentsDemo/blob/master/GIF/demo.gif)
-
+![image](https://github.com/tailer-zhang/python/blob/master/wechat.png)
 
 
