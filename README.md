@@ -11,6 +11,6 @@
 ```
 
 ## Donate
-![image](https://github.com/tailer-zhang/python/blob/master/wechat.png)
+![image](https://github.com/tailer-zhang/python/blob/master/wechat.png =200x200)
 
 
