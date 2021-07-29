@@ -12,7 +12,7 @@ class movieApp():
     def __init__(self,width=600,height=500) -> None:
         self.w  = width
         self.h = height
-        self.title = '视频解析助手'
+        self.title = '免费播放vip视频（腾讯，爱奇艺）'
         #初始化 tkinter
         self.root = tk.Tk(className=self.title)
         self.root.geometry('{width}x{height}'.format(width=width,height=height))
