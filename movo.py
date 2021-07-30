@@ -45,11 +45,11 @@ class movieApp():
         play.grid(row=0,column=2,ipadx=10,ipady=10) 
     
     def video_play(self):
-        port = 'https://www.administratorw.com/video.php?url='
+        port = 'http://okjx.cc/?url={}'
         if re.match(r'https?:/{2}\w.+$',self.url.get()):
             ip = self.url.get()
             ip = parse.quote_plus(ip)
-            webbrowser.open(port + ip)
+            webbrowser.open(port.format(ip))
         else:
             msgbox.showerror(title='错误',message='视频地址无效，请重新输入')
 
