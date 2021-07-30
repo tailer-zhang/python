@@ -11,6 +11,6 @@
 ```
 
 ## Donate
-<img src="https://github.com/tailer-zhang/python/blob/master/wechat.png" width="200" />
+<img src="https://github.com/tailer-zhang/python/blob/master/wechat.png" width="300" />
 
 
